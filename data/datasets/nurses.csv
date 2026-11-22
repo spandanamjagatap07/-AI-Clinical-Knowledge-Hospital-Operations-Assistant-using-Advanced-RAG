@@ -1,0 +1,21 @@
+nurse_id,nurse_name,department_id,shift
+NUR001,Brian Ramirez,DEP003,Morning
+NUR002,Holly Wood,DEP006,Morning
+NUR003,Derek Zuniga,DEP002,Evening
+NUR004,Lisa Jackson,DEP002,Evening
+NUR005,Carla Gray,DEP006,Night
+NUR006,Margaret Hawkins DDS,DEP005,Morning
+NUR007,Patty Perez,DEP008,Night
+NUR008,Ethan Adams,DEP002,Evening
+NUR009,Tommy Walter,DEP002,Night
+NUR010,Matthew Foster,DEP005,Night
+NUR011,Judy Baker,DEP006,Night
+NUR012,Justin Baker,DEP004,Night
+NUR013,Stephanie Ross,DEP002,Morning
+NUR014,Zachary Hicks,DEP004,Evening
+NUR015,Anthony Rodriguez,DEP002,Morning
+NUR016,Rebecca Henderson,DEP002,Evening
+NUR017,James Ferrell,DEP005,Evening
+NUR018,Tricia Valencia,DEP006,Morning
+NUR019,Nathan Maldonado,DEP006,Evening
+NUR020,Debra Davidson,DEP004,Night

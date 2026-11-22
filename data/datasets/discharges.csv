@@ -1,0 +1,36 @@
+discharge_id,patient_id,discharge_date,discharge_status,checklist_status
+DIS0001,PAT0063,2026-11-06,Completed,Complete
+DIS0002,PAT0091,2026-11-01,Pending Review,Complete
+DIS0003,PAT0071,2026-09-30,Completed,Complete
+DIS0004,PAT0015,2026-09-23,Completed,Complete
+DIS0005,PAT0064,2026-10-15,Pending Review,Incomplete
+DIS0006,PAT0062,2026-09-22,Completed,Incomplete
+DIS0007,PAT0071,2026-11-03,Pending Review,Complete
+DIS0008,PAT0077,2026-09-17,Completed,Complete
+DIS0009,PAT0036,2026-09-29,Pending Review,Incomplete
+DIS0010,PAT0001,2026-10-16,Pending Review,Incomplete
+DIS0011,PAT0020,2026-09-25,Pending Review,Incomplete
+DIS0012,PAT0043,2026-09-12,Pending Review,Incomplete
+DIS0013,PAT0042,2026-10-28,Completed,Incomplete
+DIS0014,PAT0030,2026-09-30,Completed,Incomplete
+DIS0015,PAT0096,2026-09-22,Pending Review,Incomplete
+DIS0016,PAT0085,2026-08-30,Completed,Incomplete
+DIS0017,PAT0005,2026-11-05,Pending Review,Complete
+DIS0018,PAT0057,2026-11-09,Pending Review,Complete
+DIS0019,PAT0093,2026-11-03,Pending Review,Complete
+DIS0020,PAT0010,2026-09-22,Pending Review,Incomplete
+DIS0021,PAT0080,2026-08-25,Pending Review,Complete
+DIS0022,PAT0043,2026-08-27,Pending Review,Incomplete
+DIS0023,PAT0081,2026-09-20,Completed,Complete
+DIS0024,PAT0031,2026-09-02,Pending Review,Complete
+DIS0025,PAT0096,2026-11-10,Pending Review,Complete
+DIS0026,PAT0098,2026-09-01,Completed,Incomplete
+DIS0027,PAT0022,2026-08-25,Pending Review,Complete
+DIS0028,PAT0006,2026-10-11,Completed,Incomplete
+DIS0029,PAT0046,2026-10-05,Pending Review,Complete
+DIS0030,PAT0032,2026-09-15,Pending Review,Complete
+DIS0031,PAT0022,2026-10-30,Completed,Incomplete
+DIS0032,PAT0080,2026-08-26,Completed,Incomplete
+DIS0033,PAT0075,2026-11-03,Completed,Incomplete
+DIS0034,PAT0082,2026-10-20,Pending Review,Incomplete
+DIS0035,PAT0086,2026-11-20,Pending Review,Incomplete

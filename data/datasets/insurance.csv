@@ -1,0 +1,101 @@
+insurance_id,patient_id,provider,policy_status
+INS0001,PAT0003,Sample Health Cover B,Expired
+INS0002,PAT0087,Sample Health Cover A,Expired
+INS0003,PAT0075,Sample Health Cover B,Under Review
+INS0004,PAT0089,Sample Health Cover C,Active
+INS0005,PAT0077,Sample Health Cover B,Expired
+INS0006,PAT0084,Sample Health Cover C,Under Review
+INS0007,PAT0030,Sample Health Cover C,Active
+INS0008,PAT0075,Sample Health Cover B,Active
+INS0009,PAT0068,Sample Health Cover C,Under Review
+INS0010,PAT0080,Sample Health Cover B,Active
+INS0011,PAT0088,Sample Health Cover A,Active
+INS0012,PAT0074,Sample Health Cover C,Active
+INS0013,PAT0025,Sample Health Cover A,Expired
+INS0014,PAT0041,Sample Health Cover B,Active
+INS0015,PAT0053,Sample Health Cover C,Active
+INS0016,PAT0053,Sample Health Cover C,Under Review
+INS0017,PAT0061,Sample Health Cover C,Under Review
+INS0018,PAT0008,Sample Health Cover C,Active
+INS0019,PAT0067,Sample Health Cover A,Under Review
+INS0020,PAT0042,Sample Health Cover C,Expired
+INS0021,PAT0068,Sample Health Cover B,Expired
+INS0022,PAT0023,Sample Health Cover B,Under Review
+INS0023,PAT0044,Sample Health Cover C,Expired
+INS0024,PAT0087,Sample Health Cover C,Under Review
+INS0025,PAT0083,Sample Health Cover C,Expired
+INS0026,PAT0079,Sample Health Cover B,Active
+INS0027,PAT0032,Sample Health Cover B,Under Review
+INS0028,PAT0039,Sample Health Cover A,Expired
+INS0029,PAT0099,Sample Health Cover B,Under Review
+INS0030,PAT0027,Sample Health Cover C,Under Review
+INS0031,PAT0063,Sample Health Cover B,Expired
+INS0032,PAT0045,Sample Health Cover C,Under Review
+INS0033,PAT0036,Sample Health Cover B,Active
+INS0034,PAT0074,Sample Health Cover C,Under Review
+INS0035,PAT0049,Sample Health Cover B,Expired
+INS0036,PAT0099,Sample Health Cover A,Expired
+INS0037,PAT0006,Sample Health Cover B,Under Review
+INS0038,PAT0011,Sample Health Cover B,Expired
+INS0039,PAT0084,Sample Health Cover B,Under Review
+INS0040,PAT0062,Sample Health Cover A,Active
+INS0041,PAT0069,Sample Health Cover B,Under Review
+INS0042,PAT0090,Sample Health Cover B,Active
+INS0043,PAT0014,Sample Health Cover C,Under Review
+INS0044,PAT0076,Sample Health Cover A,Active
+INS0045,PAT0007,Sample Health Cover C,Under Review
+INS0046,PAT0029,Sample Health Cover C,Active
+INS0047,PAT0007,Sample Health Cover A,Expired
+INS0048,PAT0043,Sample Health Cover C,Expired
+INS0049,PAT0013,Sample Health Cover C,Active
+INS0050,PAT0001,Sample Health Cover C,Active
+INS0051,PAT0053,Sample Health Cover C,Expired
+INS0052,PAT0062,Sample Health Cover C,Active
+INS0053,PAT0097,Sample Health Cover B,Expired
+INS0054,PAT0037,Sample Health Cover C,Active
+INS0055,PAT0099,Sample Health Cover A,Under Review
+INS0056,PAT0074,Sample Health Cover A,Under Review
+INS0057,PAT0095,Sample Health Cover C,Active
+INS0058,PAT0023,Sample Health Cover B,Active
+INS0059,PAT0005,Sample Health Cover B,Expired
+INS0060,PAT0024,Sample Health Cover C,Expired
+INS0061,PAT0005,Sample Health Cover A,Expired
+INS0062,PAT0073,Sample Health Cover C,Active
+INS0063,PAT0043,Sample Health Cover B,Expired
+INS0064,PAT0083,Sample Health Cover C,Under Review
+INS0065,PAT0064,Sample Health Cover A,Under Review
+INS0066,PAT0060,Sample Health Cover B,Active
+INS0067,PAT0015,Sample Health Cover B,Active
+INS0068,PAT0094,Sample Health Cover B,Under Review
+INS0069,PAT0033,Sample Health Cover C,Active
+INS0070,PAT0002,Sample Health Cover C,Expired
+INS0071,PAT0038,Sample Health Cover C,Under Review
+INS0072,PAT0097,Sample Health Cover A,Active
+INS0073,PAT0079,Sample Health Cover C,Expired
+INS0074,PAT0055,Sample Health Cover C,Expired
+INS0075,PAT0012,Sample Health Cover B,Under Review
+INS0076,PAT0013,Sample Health Cover A,Active
+INS0077,PAT0062,Sample Health Cover B,Active
+INS0078,PAT0001,Sample Health Cover B,Expired
+INS0079,PAT0031,Sample Health Cover B,Expired
+INS0080,PAT0043,Sample Health Cover B,Under Review
+INS0081,PAT0093,Sample Health Cover C,Active
+INS0082,PAT0034,Sample Health Cover C,Expired
+INS0083,PAT0089,Sample Health Cover A,Active
+INS0084,PAT0086,Sample Health Cover A,Expired
+INS0085,PAT0040,Sample Health Cover A,Expired
+INS0086,PAT0088,Sample Health Cover C,Under Review
+INS0087,PAT0099,Sample Health Cover B,Under Review
+INS0088,PAT0016,Sample Health Cover C,Expired
+INS0089,PAT0048,Sample Health Cover C,Active
+INS0090,PAT0029,Sample Health Cover A,Expired
+INS0091,PAT0020,Sample Health Cover B,Under Review
+INS0092,PAT0078,Sample Health Cover B,Expired
+INS0093,PAT0090,Sample Health Cover C,Expired
+INS0094,PAT0097,Sample Health Cover C,Under Review
+INS0095,PAT0028,Sample Health Cover A,Under Review
+INS0096,PAT0097,Sample Health Cover C,Active
+INS0097,PAT0068,Sample Health Cover B,Under Review
+INS0098,PAT0091,Sample Health Cover B,Active
+INS0099,PAT0073,Sample Health Cover A,Active
+INS0100,PAT0071,Sample Health Cover C,Active

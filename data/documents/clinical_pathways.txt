@@ -1,0 +1,18 @@
+TITLE: Clinical Pathway Governance Document
+DEPARTMENT: Clinical Governance
+DOCUMENT_TYPE: Clinical Pathway
+VERSION: 1.0
+
+PURPOSE:
+Describe the governance process for clinical pathways.
+
+WORKFLOW:
+1. Identify the pathway and its intended scope.
+2. Obtain review from the responsible specialists.
+3. Obtain required clinical governance approval.
+4. Publish the approved version.
+5. Review and update according to hospital policy.
+
+IMPORTANT:
+This is a synthetic governance example, not a
+patient-specific clinical pathway.

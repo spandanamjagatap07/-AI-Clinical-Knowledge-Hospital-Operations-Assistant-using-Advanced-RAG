@@ -1,0 +1,26 @@
+incident_id,department_id,incident_type,severity,incident_date,status
+INC0001,DEP008,Infection Control Review,Low,2026-11-20,Closed
+INC0002,DEP007,Equipment Issue,Low,2026-07-09,Closed
+INC0003,DEP005,Patient Safety Review,Low,2026-07-16,Closed
+INC0004,DEP007,Documentation Issue,Low,2026-10-28,Closed
+INC0005,DEP003,Documentation Issue,Low,2026-06-16,Closed
+INC0006,DEP005,Patient Safety Review,Medium,2026-08-12,Open
+INC0007,DEP006,Infection Control Review,Medium,2026-06-30,Open
+INC0008,DEP004,Patient Safety Review,High,2026-11-01,Closed
+INC0009,DEP001,Equipment Issue,Medium,2026-08-16,Under Investigation
+INC0010,DEP008,Equipment Issue,High,2026-11-19,Closed
+INC0011,DEP003,Equipment Issue,Medium,2026-08-02,Closed
+INC0012,DEP006,Equipment Issue,High,2026-11-11,Open
+INC0013,DEP004,Infection Control Review,Medium,2026-11-10,Open
+INC0014,DEP005,Equipment Issue,Low,2026-09-02,Open
+INC0015,DEP004,Documentation Issue,High,2026-08-12,Open
+INC0016,DEP005,Documentation Issue,High,2026-09-21,Closed
+INC0017,DEP007,Patient Safety Review,Medium,2026-10-17,Closed
+INC0018,DEP002,Patient Safety Review,Low,2026-10-27,Under Investigation
+INC0019,DEP004,Equipment Issue,Medium,2026-06-20,Closed
+INC0020,DEP007,Patient Safety Review,Low,2026-06-12,Under Investigation
+INC0021,DEP008,Infection Control Review,Low,2026-08-22,Closed
+INC0022,DEP007,Infection Control Review,Low,2026-05-31,Closed
+INC0023,DEP007,Equipment Issue,High,2026-09-07,Open
+INC0024,DEP002,Equipment Issue,Medium,2026-10-13,Under Investigation
+INC0025,DEP003,Infection Control Review,Medium,2026-08-21,Open

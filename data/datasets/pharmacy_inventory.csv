@@ -1,0 +1,41 @@
+item_id,item_name,category,quantity,reorder_level
+MED0001,Sample Medical Item 1,Tablet,139,50
+MED0002,Sample Medical Item 2,Medical Supply,338,50
+MED0003,Sample Medical Item 3,Medical Supply,248,50
+MED0004,Sample Medical Item 4,Medical Supply,212,50
+MED0005,Sample Medical Item 5,Injection,110,50
+MED0006,Sample Medical Item 6,Tablet,176,50
+MED0007,Sample Medical Item 7,Medical Supply,56,50
+MED0008,Sample Medical Item 8,Injection,347,50
+MED0009,Sample Medical Item 9,Medical Supply,269,50
+MED0010,Sample Medical Item 10,Injection,23,50
+MED0011,Sample Medical Item 11,Syrup,202,50
+MED0012,Sample Medical Item 12,Tablet,3,50
+MED0013,Sample Medical Item 13,Syrup,154,50
+MED0014,Sample Medical Item 14,Syrup,392,50
+MED0015,Sample Medical Item 15,Syrup,391,50
+MED0016,Sample Medical Item 16,Injection,148,50
+MED0017,Sample Medical Item 17,Injection,61,50
+MED0018,Sample Medical Item 18,Tablet,254,50
+MED0019,Sample Medical Item 19,Medical Supply,89,50
+MED0020,Sample Medical Item 20,Syrup,194,50
+MED0021,Sample Medical Item 21,Syrup,256,50
+MED0022,Sample Medical Item 22,Injection,36,50
+MED0023,Sample Medical Item 23,Medical Supply,441,50
+MED0024,Sample Medical Item 24,Tablet,223,50
+MED0025,Sample Medical Item 25,Tablet,235,50
+MED0026,Sample Medical Item 26,Tablet,441,50
+MED0027,Sample Medical Item 27,Injection,294,50
+MED0028,Sample Medical Item 28,Medical Supply,293,50
+MED0029,Sample Medical Item 29,Medical Supply,363,50
+MED0030,Sample Medical Item 30,Medical Supply,148,50
+MED0031,Sample Medical Item 31,Tablet,207,50
+MED0032,Sample Medical Item 32,Tablet,494,50
+MED0033,Sample Medical Item 33,Injection,87,50
+MED0034,Sample Medical Item 34,Medical Supply,425,50
+MED0035,Sample Medical Item 35,Injection,45,50
+MED0036,Sample Medical Item 36,Medical Supply,432,50
+MED0037,Sample Medical Item 37,Tablet,124,50
+MED0038,Sample Medical Item 38,Medical Supply,301,50
+MED0039,Sample Medical Item 39,Medical Supply,268,50
+MED0040,Sample Medical Item 40,Tablet,202,50

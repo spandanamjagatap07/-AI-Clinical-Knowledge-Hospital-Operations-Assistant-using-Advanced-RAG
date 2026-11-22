@@ -1,0 +1,12 @@
+TITLE: Radiology Operations Procedure
+DEPARTMENT: Radiology
+DOCUMENT_TYPE: Procedure
+VERSION: 1.0
+
+WORKFLOW:
+1. Receive an imaging request.
+2. Verify the request and appointment details.
+3. Coordinate the imaging schedule.
+4. Record procedure completion.
+5. Track report verification and availability.
+6. Escalate scheduling or equipment issues.

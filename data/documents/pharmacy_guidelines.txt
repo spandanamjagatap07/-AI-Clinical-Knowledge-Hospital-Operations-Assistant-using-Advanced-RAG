@@ -1,0 +1,15 @@
+TITLE: Pharmacy Inventory Management Guideline
+DEPARTMENT: Pharmacy
+DOCUMENT_TYPE: Guideline
+VERSION: 1.0
+
+WORKFLOW:
+1. Record incoming inventory.
+2. Update available stock.
+3. Monitor expiry information.
+4. Identify items below reorder levels.
+5. Record dispensing transactions.
+6. Escalate inventory discrepancies.
+
+NOTE:
+No medication dosage or prescribing advice is provided.

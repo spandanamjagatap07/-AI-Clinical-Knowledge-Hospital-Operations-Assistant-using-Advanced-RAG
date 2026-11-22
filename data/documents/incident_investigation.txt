@@ -1,0 +1,13 @@
+TITLE: Incident Investigation Procedure
+DEPARTMENT: Quality
+DOCUMENT_TYPE: Investigation Report
+VERSION: 1.0
+
+WORKFLOW:
+1. Register the incident.
+2. Assign an investigation owner.
+3. Collect relevant records.
+4. Document findings.
+5. Assign corrective actions.
+6. Track completion.
+7. Record final review and closure.

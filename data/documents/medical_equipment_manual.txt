@@ -1,0 +1,12 @@
+TITLE: Medical Equipment Administration Manual
+DEPARTMENT: Biomedical Engineering
+DOCUMENT_TYPE: Manual
+VERSION: 1.0
+
+WORKFLOW:
+1. Register medical equipment.
+2. Record equipment identification.
+3. Track maintenance schedules.
+4. Document service requests.
+5. Record equipment downtime.
+6. Escalate safety and maintenance issues.

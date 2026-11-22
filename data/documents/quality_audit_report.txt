@@ -1,0 +1,19 @@
+TITLE: Synthetic Hospital Quality Audit Report
+DEPARTMENT: Quality
+DOCUMENT_TYPE: Audit Report
+VERSION: 1.0
+
+AUDIT AREAS:
+1. Documentation completeness.
+2. Policy version management.
+3. Staff training records.
+4. Incident reporting.
+5. Corrective action tracking.
+
+FINDINGS:
+This sample report is intended for testing document
+retrieval and summarization.
+
+RECOMMENDATION:
+Record audit findings and assign corrective actions
+to the responsible department.

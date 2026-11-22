@@ -1,0 +1,14 @@
+TITLE: Hospital Accreditation Documentation
+DEPARTMENT: Quality
+DOCUMENT_TYPE: Accreditation
+VERSION: 1.0
+
+PURPOSE:
+Maintain evidence required for hospital quality reviews.
+
+REQUIREMENTS:
+1. Maintain current approved policies.
+2. Record staff training evidence.
+3. Maintain audit documentation.
+4. Track corrective action plans.
+5. Record review and approval dates.

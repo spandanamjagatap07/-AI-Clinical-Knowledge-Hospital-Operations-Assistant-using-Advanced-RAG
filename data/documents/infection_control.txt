@@ -1,0 +1,17 @@
+TITLE: Infection Control Reporting Manual
+DEPARTMENT: Infection Control
+DOCUMENT_TYPE: Manual
+VERSION: 1.0
+
+PURPOSE:
+Define the administrative reporting and review workflow.
+
+WORKFLOW:
+1. Register an infection-control incident.
+2. Notify the responsible infection-control team.
+3. Record investigation status.
+4. Document corrective actions.
+5. Track closure and review dates.
+
+Clinical prevention and treatment instructions must come
+from approved hospital policies.

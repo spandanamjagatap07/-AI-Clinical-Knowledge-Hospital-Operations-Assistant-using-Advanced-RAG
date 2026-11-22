@@ -1,0 +1,18 @@
+TITLE: Laboratory Operations Manual
+DEPARTMENT: Laboratory
+DOCUMENT_TYPE: Manual
+VERSION: 1.0
+
+PURPOSE:
+Describe the laboratory's administrative workflow.
+
+WORKFLOW:
+1. Register the laboratory request.
+2. Verify sample identification according to approved policy.
+3. Record sample receipt.
+4. Track processing status.
+5. Record result verification and release status.
+6. Escalate delayed or rejected samples.
+
+RECORDS:
+Maintain an auditable laboratory activity record.

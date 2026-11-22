@@ -1,0 +1,20 @@
+TITLE: Clinical Practice Guidelines
+DEPARTMENT: General Medicine
+DOCUMENT_TYPE: Guideline
+VERSION: 1.0
+
+PURPOSE:
+This is a synthetic demonstration document for the hospital AI project.
+
+SCOPE:
+Clinical practice guidelines must be approved by the hospital's
+authorized clinical governance committee before use.
+
+WORKFLOW:
+1. Staff identify the applicable approved guideline.
+2. Staff verify its version and effective date.
+3. Staff consult the responsible clinical team.
+4. Any uncertainty is escalated through the approved clinical process.
+
+IMPORTANT:
+This sample does not contain clinical treatment instructions.

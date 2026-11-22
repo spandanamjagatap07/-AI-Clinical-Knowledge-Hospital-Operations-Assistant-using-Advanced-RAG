@@ -1,0 +1,17 @@
+TITLE: Hospital Standard Operating Procedure
+DEPARTMENT: Administration
+DOCUMENT_TYPE: SOP
+VERSION: 1.0
+
+PURPOSE:
+Define a consistent process for hospital administrative operations.
+
+WORKFLOW:
+1. Receive the relevant request.
+2. Verify the request details.
+3. Route the request to the responsible department.
+4. Record the action taken.
+5. Escalate unresolved requests to the department supervisor.
+
+DOCUMENTATION:
+All actions must be recorded in the approved hospital system.

@@ -1,0 +1,9 @@
+department_id,department_name
+DEP001,Cardiology
+DEP002,Neurology
+DEP003,Emergency
+DEP004,ICU
+DEP005,Pediatrics
+DEP006,Radiology
+DEP007,Laboratory
+DEP008,General Medicine

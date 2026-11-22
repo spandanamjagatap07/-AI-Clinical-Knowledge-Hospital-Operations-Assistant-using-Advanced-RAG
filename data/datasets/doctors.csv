@@ -1,0 +1,16 @@
+doctor_id,doctor_name,department_id,specialization
+DOC001,Allison Hill,DEP002,Cardiology
+DOC002,Noah Rhodes,DEP005,Neurology
+DOC003,Angie Henderson,DEP004,Neurology
+DOC004,Daniel Wagner,DEP002,Emergency Medicine
+DOC005,Cristian Santos,DEP002,Emergency Medicine
+DOC006,Connie Lawrence,DEP007,Cardiology
+DOC007,Abigail Shaffer,DEP001,Cardiology
+DOC008,Gina Moore,DEP004,Neurology
+DOC009,Gabrielle Davis,DEP001,Emergency Medicine
+DOC010,Ryan Munoz,DEP004,Emergency Medicine
+DOC011,Monica Herrera,DEP007,Neurology
+DOC012,Jamie Arnold,DEP008,Emergency Medicine
+DOC013,Lisa Hensley,DEP005,Cardiology
+DOC014,Michele Williams,DEP003,Pediatrics
+DOC015,Dylan Miller,DEP006,General Medicine

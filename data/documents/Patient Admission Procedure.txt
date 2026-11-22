@@ -1,0 +1,27 @@
+# Patient Admission Procedure
+
+**Department:** General Administration  
+**Document Type:** Hospital Standard Operating Procedure  
+**Version:** 1.0
+
+## Purpose
+To describe the administrative workflow for admitting patients into the hospital.
+
+## Admission Workflow
+
+1. Register the patient's basic details.
+2. Verify patient identification information.
+3. Record the admission request.
+4. Assign the appropriate department.
+5. Check bed availability.
+6. Allocate an available bed.
+7. Record the assigned doctor.
+8. Confirm admission details in the hospital system.
+
+## Documentation
+Maintain accurate patient registration and admission records.
+
+## Review
+The hospital administration team should periodically review this procedure.
+
+**Note:** Synthetic educational demonstration document. Not an approved clinical protocol.

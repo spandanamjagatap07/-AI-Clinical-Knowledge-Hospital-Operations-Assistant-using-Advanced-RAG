@@ -1,0 +1,17 @@
+TITLE: Nursing Documentation Protocol
+DEPARTMENT: Nursing
+DOCUMENT_TYPE: Protocol
+VERSION: 1.0
+
+PURPOSE:
+Describe administrative documentation responsibilities for nursing staff.
+
+WORKFLOW:
+1. Verify the patient's authorized hospital record.
+2. Record observations in the approved system.
+3. Document relevant handover information.
+4. Escalate missing or inconsistent records.
+5. Follow the hospital's approved clinical protocols.
+
+NOTE:
+This is a synthetic training document, not clinical guidance.

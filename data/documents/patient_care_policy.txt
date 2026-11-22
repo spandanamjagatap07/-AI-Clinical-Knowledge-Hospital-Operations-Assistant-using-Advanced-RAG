@@ -1,0 +1,14 @@
+TITLE: Patient Care Documentation Policy
+DEPARTMENT: Patient Care
+DOCUMENT_TYPE: Policy
+VERSION: 1.0
+
+POLICY:
+Patient care documentation must be accurate, timely and traceable.
+
+REQUIREMENTS:
+1. Use authorized patient records.
+2. Record relevant activities.
+3. Maintain confidentiality.
+4. Correct documentation errors using approved procedures.
+5. Escalate discrepancies to the responsible team.

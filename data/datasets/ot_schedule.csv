@@ -1,0 +1,31 @@
+ot_id,patient_id,doctor_id,procedure_category,schedule_date,status
+OT001,PAT0053,DOC007,General Surgery,2026-11-05,Scheduled
+OT002,PAT0050,DOC004,Orthopedic,2026-11-15,Completed
+OT003,PAT0083,DOC002,Orthopedic,2026-10-25,Completed
+OT004,PAT0012,DOC009,General Surgery,2026-10-26,Scheduled
+OT005,PAT0007,DOC005,Orthopedic,2026-10-31,Postponed
+OT006,PAT0078,DOC001,Cardiac,2026-11-15,Postponed
+OT007,PAT0093,DOC011,General Surgery,2026-11-15,Completed
+OT008,PAT0027,DOC014,Orthopedic,2026-11-12,Scheduled
+OT009,PAT0028,DOC015,Cardiac,2026-10-22,Postponed
+OT010,PAT0016,DOC012,Orthopedic,2026-10-23,Scheduled
+OT011,PAT0090,DOC010,General Surgery,2026-11-15,Completed
+OT012,PAT0031,DOC009,Orthopedic,2026-10-28,Completed
+OT013,PAT0049,DOC008,General Surgery,2026-11-01,Completed
+OT014,PAT0040,DOC005,Orthopedic,2026-11-05,Completed
+OT015,PAT0060,DOC002,General Surgery,2026-11-06,Completed
+OT016,PAT0027,DOC006,Orthopedic,2026-11-08,Scheduled
+OT017,PAT0073,DOC014,Cardiac,2026-10-29,Scheduled
+OT018,PAT0003,DOC005,General Surgery,2026-10-23,Postponed
+OT019,PAT0075,DOC012,Orthopedic,2026-11-12,Scheduled
+OT020,PAT0026,DOC006,Cardiac,2026-11-09,Postponed
+OT021,PAT0032,DOC008,General Surgery,2026-11-01,Postponed
+OT022,PAT0044,DOC005,Orthopedic,2026-10-22,Postponed
+OT023,PAT0083,DOC012,Orthopedic,2026-11-07,Scheduled
+OT024,PAT0094,DOC013,Orthopedic,2026-11-16,Scheduled
+OT025,PAT0093,DOC009,Orthopedic,2026-11-16,Postponed
+OT026,PAT0083,DOC001,General Surgery,2026-11-20,Scheduled
+OT027,PAT0086,DOC001,Cardiac,2026-11-08,Scheduled
+OT028,PAT0081,DOC004,Cardiac,2026-10-30,Scheduled
+OT029,PAT0002,DOC004,General Surgery,2026-11-07,Completed
+OT030,PAT0008,DOC010,General Surgery,2026-10-31,Postponed
